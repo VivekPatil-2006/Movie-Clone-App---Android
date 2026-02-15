@@ -1,4 +1,4 @@
 # Movie-Clone-App---Android
 
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtube.com/shorts/LNPWOt5WfVw?feature=share)
+[![Watch the video](https://github.com/VivekPatil-2006/Movie-Clone-App---Android/blob/main/YT%20Thumbnail.jpg)](https://youtube.com/shorts/LNPWOt5WfVw?feature=share)
